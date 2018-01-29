@@ -7,7 +7,7 @@
 //
 
 import XCTest
-/*
+
 class PersonTests: XCTestCase {
 
   func testPerson() {
@@ -71,4 +71,3 @@ class FamilyTests : XCTestCase {
   }
   
 }
-*/
